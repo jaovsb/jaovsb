@@ -1,29 +1,42 @@
-# Olá, eu sou o João Victor! 👋
+# João Victor
 
-### Desenvolvedor Full Stack
-**Graduado em Análise e Desenvolvimento de Sistemas (ADS) pela PUC-GO**
+Desenvolvedor Backend / Full Stack Jr, graduado em Análise e Desenvolvimento de Sistemas pela PUC-GO.
 
-Sou um desenvolvedor focado em construir sistemas robustos e de alta qualidade. Atualmente, utilizo a minha base técnica no suporte para depuração de regras de negócio e identificação de bugs via análise de logs, enquanto desenvolvo aplicações modernas com foco em performance e UX.
+Atualmente trabalho com sustentação de sistemas SaaS, investigando bugs, APIs, integrações, dados e regras de negócio. No dia a dia utilizo ferramentas como Postman, MongoDB, Firebird/IBExpert e Jira para testes, diagnóstico e análise de ocorrências. Estou direcionando minha carreira para desenvolvimento, com foco principalmente em Node.js, TypeScript e PostgreSQL.
 
----
+Hoje meu foco é melhorar cada vez mais minha base em backend, testes, SQL e desenvolvimento de aplicações reais.
 
-### 🛠️ Minha Stack Tecnológica
+## Stack
 
-#### **Frontend**
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007acc.svg?style=for-the-badge&logo=typescript&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![MaterialUI](https://img.shields.io/badge/Material%20UI-007FFF?style=for-the-badge&logo=mui&logoColor=white)
+**Backend**
 
-#### **Backend & Mobile**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
 
-#### **Banco de Dados**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+**Frontend**
 
-#### **Ferramentas & Infra**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
----
+**Banco de dados**
 
-### 📫 Vamos nos conectar?
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaovsb)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sjoaovictor299@gmail.com)
+**Ferramentas**
+
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+
+## Projetos
+
+Estou renovando meu portfólio e desenvolvendo novos projetos com foco em backend e engenharia de software.
+
+Conforme forem ficando prontos, vou adicionando os principais aqui.
+
+## Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-João_Victor-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaovsb/)
+[![Gmail](https://img.shields.io/badge/Gmail-sjoaovictor299%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:sjoaovictor299@gmail.com)
