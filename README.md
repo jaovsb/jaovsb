@@ -32,9 +32,17 @@ Hoje meu foco é melhorar cada vez mais minha base em backend, testes, SQL e des
 
 ## Projetos
 
-Estou renovando meu portfólio e desenvolvendo novos projetos com foco em backend e engenharia de software.
+### [Technical Tickets API](https://github.com/jaovsb/technical-tickets-api)
 
-Conforme forem ficando prontos, vou adicionando os principais aqui.
+**Node.js · TypeScript · Express · PostgreSQL**
+
+API REST para gerenciamento de chamados técnicos.
+
+O projeto está em desenvolvimento, com foco em aprofundar meus conhecimentos em backend, regras de negócio, persistência de dados e testes automatizados.
+
+**Status:** 🚧 Em desenvolvimento
+
+[Ver repositório e acompanhar a evolução](https://github.com/jaovsb/technical-tickets-api)
 
 ## Open Source
 
