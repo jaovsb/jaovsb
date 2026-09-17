@@ -36,6 +36,20 @@ Estou renovando meu portfólio e desenvolvendo novos projetos com foco em backen
 
 Conforme forem ficando prontos, vou adicionando os principais aqui.
 
+## Open Source
+
+### Beiju — Suporte a DISTINCT
+
+**TypeScript · Node.js · SQL · Vitest**
+
+Contribuí para uma biblioteca de construção de consultas SQL, implementando suporte ao método `.distinct()` nos builders relacional e semântico.
+
+- Propagação da opção `distinct` até o modelo interno da consulta.
+- Atualização do gerador SQL para produzir `SELECT DISTINCT`.
+- Implementação de testes automatizados para o gerador e os dois builders.
+
+**[PR #24 — Contribuição integrada ao projeto](https://github.com/beiju-dev/beiju/pull/24)**
+
 ## Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-João_Victor-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaovsb/)
