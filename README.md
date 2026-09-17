@@ -42,8 +42,6 @@ O projeto está em desenvolvimento, com foco em aprofundar meus conhecimentos em
 
 **Status:** 🚧 Em desenvolvimento
 
-[Ver repositório e acompanhar a evolução](https://github.com/jaovsb/technical-tickets-api)
-
 ## Open Source
 
 ### Beiju — Suporte a DISTINCT
