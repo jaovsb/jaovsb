@@ -2,7 +2,9 @@
 
 Desenvolvedor Backend / Full Stack Jr, graduado em Análise e Desenvolvimento de Sistemas pela PUC-GO.
 
-Atualmente trabalho com sustentação de sistemas SaaS, investigando bugs, APIs, integrações, dados e regras de negócio. No dia a dia utilizo ferramentas como Postman, MongoDB, Firebird/IBExpert e Jira para testes, diagnóstico e análise de ocorrências. Estou direcionando minha carreira para desenvolvimento, com foco principalmente em Node.js, TypeScript e PostgreSQL.
+Atualmente trabalho com sustentação de sistemas SaaS, investigando bugs, APIs, integrações, dados e regras de negócio. No dia a dia utilizo ferramentas como Postman, MongoDB, Firebird/IBExpert e Jira para testes, diagnóstico e análise de ocorrências.
+
+Estou direcionando minha carreira para desenvolvimento, com foco principalmente em Node.js, TypeScript e PostgreSQL. Também contribuo com projetos open source, com contribuições já integradas em projetos de terceiros.
 
 Hoje meu foco é melhorar cada vez mais minha base em backend, testes, SQL e desenvolvimento de aplicações reais.
 
@@ -54,7 +56,23 @@ Contribuí para uma biblioteca de construção de consultas SQL, implementando s
 - Atualização do gerador SQL para produzir `SELECT DISTINCT`.
 - Implementação de testes automatizados para o gerador e os dois builders.
 
-**[PR #24 — Contribuição integrada ao projeto](https://github.com/beiju-dev/beiju/pull/24)**
+[**PR #24 — Contribuição integrada ao projeto**](https://github.com/beiju-dev/beiju/pull/24)
+
+---
+
+### avoid-ai-writing — Validação de entrada e consistência de resultados
+
+**JavaScript · Testes automatizados · Debugging**
+
+Contribuí com uma correção no fluxo principal de análise da ferramenta, melhorando a validação de entrada e a consistência dos resultados retornados.
+
+- Adição de validação para rejeitar entradas que não sejam `string` em `analyzeText()`.
+- Padronização da estrutura de `stats` para resultados vazios, textos curtos e textos acima do limite.
+- Remoção de um workaround existente na CLI após a correção ser incorporada ao detector.
+- Implementação de testes de regressão para validar o comportamento corrigido.
+- Sincronização das alterações entre os artefatos derivados do projeto.
+
+[**PR #355 — Contribuição integrada ao projeto**](https://github.com/conorbronsdon/avoid-ai-writing/pull/355)
 
 ## Contato
 
